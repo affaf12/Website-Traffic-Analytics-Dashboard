@@ -1,14 +1,15 @@
 # 🌐 Website Traffic Analytics Dashboard | Power BI Project  
 
-## 📌 Project Overview  
-This Power BI project provides an **interactive dashboard** to analyze website traffic and user engagement.  
-It helps businesses track **performance metrics** and make **data-driven decisions** to improve conversions and retention.  
-
 ---
 ## 📅 Project Duration
 **Aug 2025 – Aug 2025**
 ---
 
+## 📌 Project Overview  
+This Power BI project provides an **interactive dashboard** to analyze website traffic and user engagement.  
+It helps businesses track **performance metrics** and make **data-driven decisions** to improve conversions and retention.  
+
+---
 
 ## 📊 Key Insights Covered  
 - **Page Views** – Identify which pages attract the most traffic  
