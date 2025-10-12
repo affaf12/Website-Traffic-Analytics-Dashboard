@@ -5,6 +5,10 @@ This Power BI project provides an **interactive dashboard** to analyze website t
 It helps businesses track **performance metrics** and make **data-driven decisions** to improve conversions and retention.  
 
 ---
+## 📅 Project Duration
+**Aug 2025 – Aug 2025**
+---
+
 
 ## 📊 Key Insights Covered  
 - **Page Views** – Identify which pages attract the most traffic  
