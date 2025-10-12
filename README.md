@@ -26,7 +26,7 @@ It helps businesses track **performance metrics** and make **data-driven decisio
 
 ## 📸 Dashboard Preview  
 (Add screenshots in a folder and embed like this:)  
-![Website Traffic Dashboard](./Dashboard_Screenshots/dashboard.png)  
+![Website Traffic Dashboard](4.jpg)  
 
 ---
 
